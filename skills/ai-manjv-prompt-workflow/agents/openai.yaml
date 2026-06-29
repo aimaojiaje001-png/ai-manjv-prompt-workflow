@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI漫剧提示词工作流"
+  short_description: "从小说剧本生成AI短剧生图资产故事板与视频提示词"
+  default_prompt: "Use $ai-manjv-prompt-workflow to turn this story into AI 短剧生图资产、故事板和视频提示词。"
